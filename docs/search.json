@@ -1,0 +1,9 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "testrm.github.io",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n10*10\n\n[1] 100\n\n20*10\n\n[1] 200\n\n1+5\n\n[1] 6\n\nlibrary(tidyverse)\n\n── Attaching core tidyverse packages ──────────────────────── tidyverse 2.0.0 ──\n✔ dplyr     1.1.4     ✔ readr     2.1.5\n✔ forcats   1.0.0     ✔ stringr   1.5.1\n✔ ggplot2   3.5.1     ✔ tibble    3.2.1\n✔ lubridate 1.9.3     ✔ tidyr     1.3.1\n✔ purrr     1.0.2     \n── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──\n✖ dplyr::filter() masks stats::filter()\n✖ dplyr::lag()    masks stats::lag()\nℹ Use the conflicted package (&lt;http://conflicted.r-lib.org/&gt;) to force all conflicts to become errors\n\nlibrary(renv)\n\n\nAttaching package: 'renv'\n\nThe following object is masked from 'package:purrr':\n\n    modify\n\nThe following objects are masked from 'package:stats':\n\n    embed, update\n\nThe following objects are masked from 'package:utils':\n\n    history, upgrade\n\nThe following objects are masked from 'package:base':\n\n    autoload, load, remove, use\n\nlibrary(devtools)\n\nLoading required package: usethis\n\nAttaching package: 'devtools'\n\nThe following object is masked from 'package:renv':\n\n    install\n\nlibrary(usethis)\nlibrary(gitcreds)\nlibrary(magrittr)\n\n\nAttaching package: 'magrittr'\n\nThe following object is masked from 'package:purrr':\n\n    set_names\n\nThe following object is masked from 'package:tidyr':\n\n    extract\n\nlibrary(httr)\nlibrary(base)\nlibrary(pacman)\n\nDPLYR\ncolumn select ,mutate row filter. distinct, arrange GROUP Group _by summarise count"
+  }
+]
